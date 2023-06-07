@@ -65,7 +65,7 @@ endmodule
 ```
 ## Output:
 
-# HALF ADDER:
+# FULL ADDER:
 ### RTL realization
 ![outputrtlhalf](half%20adder%20rtl.png)
 ### TIMING DIAGRAM
@@ -73,7 +73,8 @@ endmodule
 ### TRUTH TABLE
 ![ouputtt](HALF%20TT.png)
 
-# FULL ADDER:
+# HALF ADDER:
+
 ### RTL
 ![outputrtlfull](full%20adder%20rtl.png)
 ### TIMING DIAGRAM
