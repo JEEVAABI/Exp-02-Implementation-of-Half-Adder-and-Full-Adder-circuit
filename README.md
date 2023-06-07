@@ -65,15 +65,15 @@ endmodule
 ```
 ## Output:
 
-# FULL ADDER:
+# HALF ADDER:
 ### RTL realization
 ![outputrtlhalf](half%20adder%20rtl.png)
 ### TIMING DIAGRAM
 ![outputwave](half%20adder%20wave%20form.png)
 ### TRUTH TABLE
 ![ouputtt](HALF%20TT.png)
+# FULL ADDER:
 
-# HALF ADDER:
 
 ### RTL
 ![outputrtlfull](full%20adder%20rtl.png)
